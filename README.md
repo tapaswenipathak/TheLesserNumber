@@ -18,7 +18,9 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 # Timelines
 
-[@sakshivij Timeline]() [@anuragsarkar Timeline]() [@code-monk08 Timeline]()
+[@sakshivij Timeline]() 
+[@anuragsarkar Timeline]() 
+[@code-monk08 Timeline](https://paper.dropbox.com/doc/Meeting-notes-Mayank-Singh-and-Tapasweni-Pathak-xg5YX79d8W9bWF3b7lXMH)
 
 
 # Daily Logs
@@ -29,5 +31,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@sakshivij Calendar]()
 [@anuragsarkar Calendar]()
-[@code-monk08 Calendar]()
+[@code-monk08 Calendar](https://calendly.com/code-monk08)
 
