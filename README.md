@@ -42,5 +42,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@code-monk08 Calendar](https://calendly.com/code-monk08)
 
-[@horaanchal Calendar]()
+[@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
 
