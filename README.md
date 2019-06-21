@@ -14,6 +14,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Mayank-Singh-and-Tapasweni-Pathak--A
 
 https://paper.dropbox.com/doc/Meeting-notes-Anchal-Hora-and-Tapasweni-Pathak--AfYz1fGd8HCZmgGrjMG4q8__AQ-HhokLaYpe4xKwspbK6K3q
 
+https://paper.dropbox.com/doc/Meeting-notes-Ashita-Bansal-and-Tapasweni-Pathak--AffFLhPbWgQfgcse7lnr7Yv~AQ-g5WjtfavJg9ZMu8sUvQsM
+
 
 # Communication
 
@@ -29,6 +31,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@horaanchal Timeline]()
 
+[@Aashi15bansal Timeline]()
+
 
 # Daily Logs
 
@@ -43,4 +47,6 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 [@code-monk08 Calendar](https://calendly.com/code-monk08)
 
 [@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
+
+[@Aashi15bansal Calendar]()
 
