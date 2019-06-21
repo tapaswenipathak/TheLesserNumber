@@ -20,6 +20,7 @@ https://paper.dropbox.com/doc/Meeting-notes-Ayman-Shafi-and-Tapasweni-Pathak--Af
 
 https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak--Afeuq6yp~7iXywE~3aFeq0lLAQ-yJdwO6LBNJqcSUOLNVmWu
 
+https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapasweni-Pathak--Afd6GVYxctJbT2vscH0TVXIfAQ-sPNMJhy9tPAZ6Svy1DYPw
 
 # Communication
 
@@ -41,6 +42,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Timeline]()
 
+[@bhaskartalla Timeline]()
 
 # Daily Logs
 
@@ -62,3 +64,4 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@anantmoudgalya Calendar]()
 
+[@bhaskartalla Calendar]()
