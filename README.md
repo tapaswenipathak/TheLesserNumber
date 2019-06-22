@@ -40,7 +40,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@AymanShafi Timeline]()
 
-[@anantmoudgalya Timeline]()
+[@anantmoudgalya Timeline](https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak-yJdwO6LBNJqcSUOLNVmWu)
 
 [@bhaskartalla Timeline]()
 
@@ -60,8 +60,8 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@Aashi15bansal Calendar]()
 
-[@AymanShafi Calendar](https://calendly.com/ayman-shafi)
+[@AymanShafi Calendar]()
 
-[@anantmoudgalya Calendar]()
+[@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
 
 [@bhaskartalla Calendar]()
