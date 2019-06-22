@@ -60,7 +60,7 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@Aashi15bansal Calendar]()
 
-[@AymanShafi Calendar]()
+[@AymanShafi Calendar](https://calendly.com/ayman-shafi)
 
 [@anantmoudgalya Calendar]()
 
