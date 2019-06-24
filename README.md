@@ -24,6 +24,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapaswen
 
 https://paper.dropbox.com/doc/Meeting-notes-Hardik-Kumar-and-Tapasweni-Pathak--AfmbTk8kbJpE3l8QCK_0wGebAQ-G0phVsg4IrUwcS1ddV9kS
 
+https://paper.dropbox.com/doc/Meeting-notes-Kevin-Varghese-Chittilapilly-and-Tapasweni-Pathak--AfqWWciUfeuk14HCnjv4KA4VAQ-ILLxYclzwLL1jMcmSIFph
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -48,6 +50,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@kumar-hardik Timeline]()
 
+[@KevinChittilapilly Timeline]()
+
 # Daily Logs
 
 Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
@@ -71,3 +75,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 [@bhaskartalla Calendar]()
 
 [@kumar-hardik Calendar]()
+
+[@KevinChittilapilly Calendar]()
