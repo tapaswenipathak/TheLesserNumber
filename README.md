@@ -28,6 +28,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Kevin-Varghese-Chittilapilly-and-Tap
 
 https://paper.dropbox.com/doc/Meeting-notes-Sayantan-Das-and-Tapasweni-Pathak--AfpYiVq9BLDD_M8PCSbrhffEAQ-iPyt4gydL7AkoIZREB60e
 
+https://paper.dropbox.com/doc/Meeting-notes-Samarth-Chugh-and-Tapasweni-Pathak--AfryrIJDyRa_V65T4ajMkKp0AQ-tOINPan4H0lX7CAV01iXu
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -56,6 +58,10 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@ucalyptus Timeline]()
 
+[@ucalyptus Timeline]()
+
+[@csamarth Calendar]()
+
 # Daily Logs
 
 Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
@@ -83,3 +89,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 [@KevinChittilapilly Calendar]()
 
 [@ucalyptus Calendar]()
+
+[@csamarth Calendar]()
