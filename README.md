@@ -32,6 +32,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Samarth-Chugh-and-Tapasweni-Pathak--
 
 https://paper.dropbox.com/doc/Meeting-notes-Abhishek-Guragol-and-Tapasweni-Pathak--AfsILNOhPRFBCL1ZhhLiOo6RAQ-QktKzqaOUIDzGmw052e5x
 
+https://paper.dropbox.com/doc/Meeting-notes-Aman-Verma-and-Tapasweni-Pathak--AfvK0mjwcKyP6_sDKbsHwKivAQ-M8qgd7xmOyPPSvAqcjckI
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -66,6 +68,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@Abhishekguragol Timeline]()
 
+[@nightwarrior-xxx Timeline]()
+
 # Daily Logs
 
 Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
@@ -97,3 +101,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 [@csamarth Calendar](https://calendly.com/csamarth)
 
 [@Abhishekguragol Calendar]()
+
+[@nightwarrior-xxx Calendar]()
