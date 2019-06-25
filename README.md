@@ -28,6 +28,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Kevin-Varghese-Chittilapilly-and-Tap
 
 https://paper.dropbox.com/doc/Meeting-notes-Sayantan-Das-and-Tapasweni-Pathak--AfpYiVq9BLDD_M8PCSbrhffEAQ-iPyt4gydL7AkoIZREB60e
 
+https://paper.dropbox.com/doc/Meeting-notes-Samarth-Chugh-and-Tapasweni-Pathak--AfryrIJDyRa_V65T4ajMkKp0AQ-tOINPan4H0lX7CAV01iXu
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -48,13 +50,17 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Timeline](https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak-yJdwO6LBNJqcSUOLNVmWu)
 
-[@bhaskartalla Timeline]()
+[@bhaskartalla Timeline](https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapasweni-Pathak--Afuxc__Zf4~gvU~BrrfAKGveAg-sPNMJhy9tPAZ6Svy1DYPw)
 
 [@kumar-hardik Timeline]()
 
 [@KevinChittilapilly Timeline]()
 
 [@ucalyptus Timeline]()
+
+[@ucalyptus Timeline]()
+
+[@csamarth Timeline]()
 
 # Daily Logs
 
@@ -76,10 +82,12 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
 
-[@bhaskartalla Calendar]()
+[@bhaskartalla Calendar](https://calendly.com/bb7talla/15min)
 
 [@kumar-hardik Calendar]()
 
 [@KevinChittilapilly Calendar]()
 
 [@ucalyptus Calendar](https://calendly.com/ucalyptus)
+
+[@csamarth Calendar](https://calendly.com/csamarth)
