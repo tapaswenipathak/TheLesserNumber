@@ -50,7 +50,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Timeline](https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak-yJdwO6LBNJqcSUOLNVmWu)
 
-[@bhaskartalla Timeline]()
+[@bhaskartalla Timeline](https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapasweni-Pathak--Afuxc__Zf4~gvU~BrrfAKGveAg-sPNMJhy9tPAZ6Svy1DYPw)
 
 [@kumar-hardik Timeline]()
 
@@ -82,7 +82,7 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
 
-[@bhaskartalla Calendar]()
+[@bhaskartalla Calendar](https://calendly.com/bb7talla/15min)
 
 [@kumar-hardik Calendar]()
 
