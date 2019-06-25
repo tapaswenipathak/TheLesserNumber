@@ -1,1 +1,1 @@
-this branch contains valid json files which can be used with unplugg api, there are lot of scripts too which were used for data cleaning and stuff, please check out unplugg api https://unplu.gg/test_api.html
+this branch contains valid json files which can be used with unplugg api, there are lot of scripts too which were used for data cleaning and stuff, please check out unplugg api https://unplu.gg/test_api.html, also since we have year wise data, I used timestapms of end year date, ex: for year 2012 corresponding date = 2012,12,31
