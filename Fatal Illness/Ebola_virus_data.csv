@@ -1,5 +1,4 @@
-,,,"Number of cases","Number of cases","Number of deaths"
-"Country","Data as of","Case definition","Cumulative","In past 21 days","Cumulative"
+"Country","Date as of","Case definition","Number of cases: Cumulative","Number of cases: In past 21 days","Number of deaths: Cumulative"
 "Guinea","8 May 2016","Confirmed","7","0","5"
 "Guinea","8 May 2016","Probable","3","0","3"
 "Guinea","8 May 2016","Suspected","Not reported.","Not reported.","Not reported."
