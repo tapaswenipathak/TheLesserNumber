@@ -34,6 +34,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Abhishek-Guragol-and-Tapasweni-Patha
 
 https://paper.dropbox.com/doc/Meeting-notes-Aman-Verma-and-Tapasweni-Pathak--AfvK0mjwcKyP6_sDKbsHwKivAQ-M8qgd7xmOyPPSvAqcjckI
 
+https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pathak--Af1Spbth0k5lCbsDoU53N9JNAQ-p1yePKCfBw4U2oqvvX55a
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
