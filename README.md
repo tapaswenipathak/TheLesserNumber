@@ -36,6 +36,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Aman-Verma-and-Tapasweni-Pathak--Afv
 
 https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pathak--Af1Spbth0k5lCbsDoU53N9JNAQ-p1yePKCfBw4U2oqvvX55a
 
+https://paper.dropbox.com/doc/Meeting-notes-aman-shah-and-Tapasweni-Pathak--AgppFx9mCqXSBOdyVMNkRWcCAQ-GgfhjF8E7taLMQIWmrTQu
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -67,6 +69,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@ucalyptus Timeline]()
 
 [@csamarth Timeline]()
+
+[@shah-aman Timeline]()
 
 [@Abhishekguragol Timeline]()
 
