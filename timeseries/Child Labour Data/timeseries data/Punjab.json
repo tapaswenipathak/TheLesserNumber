@@ -1,0 +1,1 @@
+{"callback": "http://your.domain/yourcallback", "forecast_to": 1640889000.0, "data": [{"timestamp": 62965800.0, "value": 232774.0}, {"timestamp": 378585000.0, "value": 216939.0}, {"timestamp": 694117800.0, "value": 142868.0}, {"timestamp": 1009737000.0, "value": 177268.0}, {"timestamp": 1325269800.0, "value": 90353.0}]}
