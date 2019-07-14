@@ -32,11 +32,17 @@
 ## Child Widow Data ##
 - Area : India
 - Region : Asia
-- Row size : 2160
-- Col size : 27
+- Row size : 2160,1920,1860
+- Col size : 27,27,27
 - Age : All age groups
+- Castes : SC,ST ,Others
 
-
+## Crime Data ##
+- Area : Unites Staes
+- Region : America
+- Years listed : 2018-2019
+- Row size : 89364
+- Col size : 26
 
 
 
