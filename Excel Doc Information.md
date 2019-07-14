@@ -44,7 +44,12 @@
 - Row size : 89364
 - Col size : 26
 
-
+## Fatal Illness ##
+- Area : World
+- Region : World
+- Years listed : 2000 2005 2010 2017,2015-2016,2017
+- Row size : 193,13,28,104,197
+- Col size :5,5,6,14,2
 
 
 
