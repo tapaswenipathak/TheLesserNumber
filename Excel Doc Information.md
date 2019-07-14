@@ -20,3 +20,12 @@
 - Years listed : 1971 1981 1991 2001, 2001 2011,2010-2016
 - Row size : 35, 35,213
 - Col size :  6,4,22
+
+## Child Marriage Data ##
+- Area : World  
+- Region :  World
+- Years listed : 2010-2017
+- Row size : 212
+- Col size : 4
+- Age : 15, 18
+
