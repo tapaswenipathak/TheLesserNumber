@@ -38,6 +38,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pat
 
 https://paper.dropbox.com/doc/Meeting-notes-aman-shah-and-Tapasweni-Pathak--AgppFx9mCqXSBOdyVMNkRWcCAQ-GgfhjF8E7taLMQIWmrTQu
 
+https://paper.dropbox.com/doc/Meeting-notes-Prateek-Majumder-and-Tapasweni-Pathak--Ag~4fzLlhWVCP0bfYNuEEcOWAQ-9zMmQexcAxQl7adWwpPws
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -112,3 +114,5 @@ Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
 
 [@Niharika Calender](https://calendly.com/niharika11988)
 [@aman-shah Calender](https://calendly.com/aman-shah/)
+
+[@prateekmaj21]()
