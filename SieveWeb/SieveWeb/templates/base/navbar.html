@@ -2,6 +2,7 @@
 {% url 'home_page' as home %}
 {% url 'SieveApp:contact' as contact %}
 {% url 'about_page' as about %}
+{% url 'report_page' as report %}
 
 <header class="main_menu home_menu">
     <div class="container">
@@ -29,7 +30,7 @@
                             </li>
                          </li>
                                <li class="nav-item">
-                                <a class="nav-link" href="">Research Reports</a>
+                                <a class="nav-link" href="{{ report }}">Research Reports</a>
                             </li>
                         </ul>
                     </div>
