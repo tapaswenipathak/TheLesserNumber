@@ -1,0 +1,5 @@
+The notebook was created by prateekmaj21
+
+The notebook takes into account the data of sex workers in various nations taken from a 2016 data collection
+Pandas, Matplotlib and Seaborn were used in the process and various types of plots have been made.
+
