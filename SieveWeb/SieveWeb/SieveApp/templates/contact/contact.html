@@ -1,16 +1,67 @@
-{% extends 'base/base.html'%}
+{% extends 'base/base.html' %}
+{% load static %}
 
 {% block content %}
-<div class="container">
-    <form action='' method="POST">
-        {% csrf_token %}
-            {{form.name}}
-            <br>
-            {{form.email}}
-            <br>
-            {{form.message}}
-            <br>
-            <button type="submit" class="btn btn-danger">Submit</button>
-    </form>
-</div>
-{% endblock %}
+  <!-- ================ contact section start ================= -->
+  <div class="spacing">
+  <section class="contact-section section_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="contact-title">Get in Touch</h2>
+        </div>
+        <div class="col-lg-8">
+          <form class="form-contact contact_form" method="POST" id="contactForm">
+            {% csrf_token %}
+            <div class="row">
+              <div class="col-12">
+                <div class="form-group">
+                  {{ form.message }}
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                {{ form.name }}
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="form-group">
+                {{ form.email }}
+                </div>
+              </div>
+              <div class="col-12">
+              </div>
+            </div>
+            <div class="form-group mt-3">
+              <button type="submit" class="button button-contactForm btn_1">Send Message</button>
+            </div>
+          </form>
+        </div>
+        <div class="col-lg-4">
+          <div class="media contact-info">
+            <span class="contact-info__icon"><i class="ti-home"></i></span>
+            <div class="media-body">
+              <h3>India</h3>
+            </div>
+          </div>
+          <div class="media contact-info">
+            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+            <div class="media-body">
+              <h3>+91 xxxxxxxxxx</h3>
+              <p>Mon to Fri 9am to 6pm</p>
+            </div>
+          </div>
+          <div class="media contact-info">
+            <span class="contact-info__icon"><i class="ti-email"></i></span>
+            <div class="media-body">
+              <h3>abc@gmail.com</h3>
+              <p>Send us your query anytime!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  </div>
+  <!-- ================ contact section end ================= -->
+  {% endblock %}

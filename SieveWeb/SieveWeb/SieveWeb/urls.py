@@ -3,12 +3,14 @@ from django.conf.urls.static import static
 
 from django.contrib import admin
 from django.conf.urls import url, include
-from .views import home_page
+from .views import home_page, about_page, report_page
 
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', home_page, name='home_page'),
+    url(r'^about/$', about_page, name='about_page'),
+    url(r'^report/$', report_page, name='report_page'),
     url(r'^sieve/', include('SieveApp.urls', namespace = 'sieveapp')), 
 ]
 

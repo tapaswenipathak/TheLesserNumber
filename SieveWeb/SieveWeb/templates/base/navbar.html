@@ -1,23 +1,41 @@
 {% load static %}
 {% url 'home_page' as home %}
 {% url 'SieveApp:contact' as contact %}
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+{% url 'about_page' as about %}
+{% url 'report_page' as report %}
+
+<header class="main_menu home_menu">
     <div class="container">
-        <a href="{{ home }}" class="navbar-brand"><img src="{% static 'img/logo.png' %}"
-                width="60px" height="50px"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#toggleid">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <a class="navbar-brand" href="/"> <img src="{% static 'img/logo.png' %} " alt="logo" width="120px" height="120px"> </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-
-        <div class="collapse navbar-collapse" id="toggleid">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item {% if request.path == home %}active{% endif %}"><a href="{{ home }}"
-                        class="nav-link">Home</a></li>
-                <li class="nav-item {% if request.path == contact %}active{% endif %}"><a href="{{ contact }}"
-                        class="nav-link">Contact</a></li>
-            </ul>
-
+                    <div class="collapse navbar-collapse main-menu-item justify-content-center"
+                        id="navbarSupportedContent">
+                        <ul class="navbar-nav align-items-center">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="{{  home }}">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ about }}">About</a>
+                            </li>
+                               <li class="nav-item">
+                                <a class="nav-link" href="{{ contact }}">Contact</a>
+                            </li>
+                         </li>
+                               <li class="nav-item">
+                                <a class="nav-link" href="{{ report }}">Research Reports</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
         </div>
     </div>
-</nav>
+</header>

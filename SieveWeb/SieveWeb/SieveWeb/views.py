@@ -1,4 +1,10 @@
 from django.shortcuts import render
 
 def home_page(request):
-    return render(request, 'home.html', {})
+    return render(request, 'index.html', {})
+
+def about_page(request):
+    return render(request, 'about.html', {})
+
+def report_page(request):
+    return render(request, 'report.html', {})
