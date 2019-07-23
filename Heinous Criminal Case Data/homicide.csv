@@ -1,0 +1,232 @@
+"Country (or dependent territory, subnational area, etc.)",Region,Subregion,Rate,Count,Yearlisted,Source
+,,,,,,
+Burundi,Africa,Eastern Africa,6.02,635,2016,CTS/SDG
+Comoros,Africa,Eastern Africa,7.70,60,2015,WHO Estimate
+Djibouti,Africa,Eastern Africa,6.48,60,2015,WHO Estimate
+Eritrea,Africa,Eastern Africa,8.04,390,2015,WHO Estimate
+Ethiopia,Africa,Eastern Africa,7.56,"7,552",2015,WHO Estimate
+Kenya,Africa,Eastern Africa,4.87,"2,363",2016,CTS
+Madagascar,Africa,Eastern Africa,7.69,"1,863",2015,WHO Estimate
+Malawi,Africa,Eastern Africa,1.73,279,2012,NP
+Mauritius,Africa,Eastern Africa,1.82,23,2016,UNSDC/CTS/NSO
+Mayotte,Africa,Eastern Africa,5.93,12,2009,NP
+Mozambique,Africa,Eastern Africa,3.40,849,2011,WHO/SDG
+Réunion,Africa,Eastern Africa,1.82,15,2009,NP
+Rwanda,Africa,Eastern Africa,2.52,293,2015,NSO
+Seychelles,Africa,Eastern Africa,12.74,12,2016,INTP/NSO
+Somalia,Africa,Eastern Africa,4.31,599,2015,WHO Estimate
+South Sudan,Africa,Eastern Africa,13.90,"1,504",2012,NP
+Uganda,Africa,Eastern Africa,11.52,"4,473",2014,CTS/NP
+Tanzania,Africa,Eastern Africa,6.95,"3,746",2015,INTP/CTS
+Zambia,Africa,Eastern Africa,5.30,853,2015,UNSDC/WHO/NP
+Zimbabwe,Africa,Eastern Africa,6.67,981,2012,WHO
+Angola,Africa,Middle Africa,4.85,"1,217",2012,NSO
+Cameroon,Africa,Middle Africa,4.17,880,2012,NSO/SDG
+Central African Republic,Africa,Middle Africa,19.76,913,2016,CTS
+Chad,Africa,Middle Africa,9.04,"1,266",2015,WHO Estimate
+Congo,Africa,Middle Africa,9.32,466,2015,WHO Estimate
+D. R. Congo,Africa,Middle Africa,13.55,"10,322",2015,WHO Estimate
+Equatorial Guinea,Africa,Middle Africa,2.31,27,2015,WHO Estimate
+Gabon,Africa,Middle Africa,8.04,155,2015,WHO Estimate
+São Tomé and Príncipe,Africa,Middle Africa,3.36,6,2011,CTS
+Algeria,Africa,Northern Africa,1.36,542,2015,CTS
+Egypt,Africa,Northern Africa,2.51,"2,207",2012,CTS
+Libya,Africa,Northern Africa,2.50,156,2015,WHO Estimate
+Morocco,Africa,Northern Africa,1.24,431,2015,UNSDC/CTS
+Sudan,Africa,Northern Africa,5.16,"1,702",2008,CTS
+Tunisia,Africa,Northern Africa,3.05,332,2012,WHO
+Botswana,Africa,Southern Africa,15.04,303,2010,WHO
+Lesotho,Africa,Southern Africa,41.25,897,2015,CTS/NSO
+Namibia,Africa,Southern Africa,17.14,388,2012,NP/INTP
+South Africa,Africa,Southern Africa,33.97,"19,016",2016,NP
+Swaziland,Africa,Southern Africa,17.29,208,2010,WHO
+Benin,Africa,Western Africa,6.18,654,2015,WHO Estimate
+Burkina Faso,Africa,Western Africa,0.37,67,2015,NSO
+Cape Verde,Africa,Western Africa,11.49,62,2016,NP/CTS
+Ivory Coast,Africa,Western Africa,11.63,"2,688",2015,WHO Estimate
+Gambia,Africa,Western Africa,9.13,181,2015,WHO Estimate
+Ghana,Africa,Western Africa,1.68,423,2011,WHO
+Guinea,Africa,Western Africa,8.82,"1,067",2015,WHO Estimate
+Guinea-Bissau,Africa,Western Africa,9.55,169,2015,WHO Estimate
+Liberia,Africa,Western Africa,3.23,135,2012,UNMIL
+Mali,Africa,Western Africa,10.90,"1,905",2015,WHO Estimate
+Mauritania,Africa,Western Africa,9.94,416,2015,WHO Estimate
+Niger,Africa,Western Africa,4.44,788,2012,WHO
+Nigeria,Africa,Western Africa,9.85,"17,843",2015,WHO Estimate
+Saint Helena,Africa,Western Africa,0.00,0,2009,NSO
+Senegal,Africa,Western Africa,7.38,"1,105",2015,WHO Estimate
+Sierra Leone,Africa,Western Africa,1.71,124,2015,UNSDC/NP/SDG
+Togo,Africa,Western Africa,9.00,668,2015,WHO Estimate
+Anguilla,Americas,Caribbean,27.66,4,2014,NSO/SDG/PAHO
+Antigua and Barbuda,Americas,Caribbean,10.33,10,2012,OAS
+Aruba,Americas,Caribbean,1.93,2,2014,MD
+Bahamas,Americas,Caribbean,28.40,111,2016,OAS/CTS/NP
+Barbados,Americas,Caribbean,10.91,31,2015,OAS/CTS
+British Virgin Islands,Americas,Caribbean,8.37,2,2006,MD
+Cayman Islands,Americas,Caribbean,8.45,5,2014,MD/WHO/NSO
+Cuba,Americas,Caribbean,4.99,572,2016,MD/MOH
+Curaçao,Americas,Caribbean,19.19,26,2007,PAHO
+Dominica,Americas,Caribbean,8.37,6,2011,UNSDC/OAS
+Dominican Republic,Americas,Caribbean,15.18,"1,616",2016,NGO/SES/CTS/RIC
+Grenada,Americas,Caribbean,10.25,11,2016,OAS/CTS
+Guadeloupe,Americas,Caribbean,8.01,36,2009,NP
+Haiti,Americas,Caribbean,10.04,"1,033",2012,OAS
+Jamaica,Americas,Caribbean,47.01,"1,354",2016,OAS/CTS
+Martinique,Americas,Caribbean,2.78,11,2009,NP
+Montserrat,Americas,Caribbean,19.88,1,2012,PAHO/WHO/MD
+Puerto Rico,Americas,Caribbean,18.51,679,2016,NP/NSO
+Saint Kitts and Nevis,Americas,Caribbean,34.23,18,2012,OAS/CTS
+Saint Lucia,Americas,Caribbean,19.27,34,2014,OAS/MD
+Saint Vincent and the Grenadines,Americas,Caribbean,36.46,40,2016,OAS/CTS
+Trinidad and Tobago,Americas,Caribbean,30.88,420,2015,OAS/CTS
+Turks and Caicos Islands,Americas,Caribbean,5.93,2,2014,PAHO/MD
+Virgin Islands,Americas,Caribbean,49.26,52,2012,MD
+Belize,Americas,Central America,37.60,138,2016,OAS/CTS
+Costa Rica,Americas,Central America,11.90,578,2016,UNSDC/MOJ/CTS
+El Salvador,Americas,Central America,82.84,"5,257",2016,OAS/CTS/RSC
+Guatemala,Americas,Central America,27.26,"4,520",2016,UNSDC/NP/CTS
+Honduras,Americas,Central America,56.52,"5,150",2016,OCAVI/NSO/CTS
+Mexico,Americas,Central America,19.26,"24,559",2016,NSO
+Nicaragua,Americas,Central America,7.37,453,2016,NP
+Panama,Americas,Central America,9.67,390,2016,NSO/CTS
+Bermuda,Americas,Northern America,12.96,8,2016,NP/CTS
+Canada,Americas,Northern America,1.68,611,2016,OAS/CTS/SDG
+Greenland,Americas,Northern America,5.31,3,2016,NSO
+Saint Pierre and Miquelon,Americas,Northern America,15.93,1,2009,NP
+United States,Americas,Northern America,5.35,"17,250",2016,NP/UNSDC/CTS
+Argentina,Americas,South America,5.94,"2,605",2016,CTS
+Bolivia,Americas,South America,6.30,686,2016,CTS
+Brazil,Americas,South America,29.53,"61,283",2016,MD Adjusted/NGO
+Chile,Americas,South America,3.46,620,2016,CTS/OAS
+Colombia,Americas,South America,25.50,"12,402",2016,UNSDC/OAS/CTS
+Ecuador,Americas,South America,5.85,959,2016,OAS/CTS
+French Guiana,Americas,South America,13.15,30,2009,NP
+Guyana,Americas,South America,18.37,142,2016,OAS/CTS/NSO
+Paraguay,Americas,South America,9.29,617,2015,OAS/CTS
+Peru,Americas,South America,7.67,"2,435",2016,CTS
+Suriname,Americas,South America,8.35,43,2008,OAS
+Uruguay,Americas,South America,7.69,265,2016,MOI/CTS
+Venezuela,Americas,South America,56.33,"17,778",2016,UNSDC/NGO/OAS/AG
+Kazakhstan,Asia,Central Asia,4.81,853,2015,TSMNEE/CTS
+Kyrgyzstan,Asia,Central Asia,4.49,267,2016,UNECE/CTS
+Tajikistan,Asia,Central Asia,1.61,126,2011,TSMNEE/CTS
+Turkmenistan,Asia,Central Asia,4.22,203,2006,TSMNEE
+Uzbekistan,Asia,Central Asia,3.00,831,2008,TSMNEE/NSO
+China,Asia,Eastern Asia,0.62,"8,634",2016,NSO Adjusted/NSO
+Hong Kong,Asia,Eastern Asia,0.38,28,2016,UNSDC/NP/CTS
+Macau,Asia,Eastern Asia,0.16,1,2016,NP/CTS
+Taiwan,Asia,Eastern Asia,0.82,192,2015,SDG
+North Korea,Asia,Eastern Asia,4.40,"1,110",2015,WHO Estimate
+Japan,Asia,Eastern Asia,0.28,362,2016,SDG/CTS
+Mongolia,Asia,Eastern Asia,5.66,171,2016,CTS
+South Korea,Asia,Eastern Asia,0.70,356,2016,UNSDC/NP/CTS
+Brunei,Asia,South-Eastern Asia,0.49,2,2013,WHO/MD
+Cambodia,Asia,South-Eastern Asia,1.84,268,2011,JP/WHO
+Indonesia,Asia,South-Eastern Asia,0.50,"1,292",2016,UNSDC/INTP/CTS
+Laos,Asia,South-Eastern Asia,7.01,467,2015,WHO Estimate
+Malaysia,Asia,South-Eastern Asia,2.11,627,2013,UNSDC/WHO/NP
+Myanmar,Asia,South-Eastern Asia,2.27,"1,198",2016,NSO/CTS
+Philippines,Asia,South-Eastern Asia,11.02,"11,385",2016,UNSDC/CTS/NSO
+Singapore,Asia,South-Eastern Asia,0.32,18,2016,UNSDC/NP/CTS
+Thailand,Asia,South-Eastern Asia,3.24,"2,229",2016,NP/CTS
+Timor-Leste,Asia,South-Eastern Asia,3.95,49,2015,UNMIT/NSO
+Vietnam,Asia,South-Eastern Asia,1.52,"1,358",2011,WHO
+Afghanistan,Asia,Southern Asia,6.35,"1,948",2012,NSO
+Bangladesh,Asia,Southern Asia,2.50,"4,035",2015,NP
+Bhutan,Asia,Southern Asia,1.13,9,2016,NSO/CTS
+India,Asia,Southern Asia,3.22,"42,678",2016,MOI
+Iran,Asia,Southern Asia,2.47,"1,936",2014,CTS/NSO/MD
+Maldives,Asia,Southern Asia,0.75,3,2013,UNSDC/CTS
+Nepal,Asia,Southern Asia,2.16,627,2016,NSO/CTS
+Pakistan,Asia,Southern Asia,4.41,"8,516",2016,NSO
+Sri Lanka,Asia,Southern Asia,2.55,530,2016,CTS/NP
+Armenia,Asia,Western Asia,2.98,87,2016,TSMNEE/CTS
+Azerbaijan,Asia,Western Asia,2.14,208,2016,UNSDC/CTS
+Bahrain,Asia,Western Asia,0.52,7,2014,UNSDC/CTS/NP/MD
+Cyprus,Asia,Western Asia,1.11,13,2016,EUR/UNSDC/CTS
+Georgia,Asia,Western Asia,0.99,39,2016,UNSDC/TSMNEE/CTS
+Iraq,Asia,Western Asia,9.85,"3,339",2013,CTS
+Central Iraq,Asia,Western Asia,10.08,"3,029",2014,CTS
+Kurdistan Region (Iraq),Asia,Western Asia,2.20,111,2013,CTS
+Israel,Asia,Western Asia,1.36,110,2015,NSO/CTS/SDG
+Jordan,Asia,Western Asia,1.55,145,2016,CTS/SDG/NP
+Kuwait,Asia,Western Asia,1.80,61,2012,UNSDC/NP/CTS
+Lebanon,Asia,Western Asia,3.99,235,2016,CTS
+Oman,Asia,Western Asia,0.66,26,2014,NSO
+Qatar,Asia,Western Asia,0.38,9,2014,UNSDC/MD
+Saudi Arabia,Asia,Western Asia,1.50,472,2015,NSO/CTS
+Palestine,Asia,Western Asia,0.69,33,2016,CTS/SDG
+Syria,Asia,Western Asia,2.20,463,2010,NSO
+Turkey,Asia,Western Asia,4.31,"3,216",2012,CTS
+United Arab Emirates,Asia,Western Asia,0.89,83,2016,CTS
+Yemen,Asia,Western Asia,6.66,"1,703",2013,UNSDC/NSO/CTS
+Belarus,Europe,Eastern Europe,3.58,340,2014,UNSDC/CTS
+Bulgaria,Europe,Eastern Europe,1.14,81,2016,UNSDC/EUR/CTS
+Czech Republic,Europe,Eastern Europe,0.61,65,2016,UNSDC/CTS
+Hungary,Europe,Eastern Europe,2.07,202,2016,UNSDC/CTS
+Poland,Europe,Eastern Europe,0.67,256,2016,EUR/UNSDC/CTS
+Moldova,Europe,Eastern Europe,3.19,130,2014,UNSDC/CTS
+Romania,Europe,Eastern Europe,1.25,247,2016,SDG/UNSDC/CTS
+Russia,Europe,Eastern Europe,10.82,"15,561",2016,NSO/CTS
+Slovakia,Europe,Eastern Europe,1.05,57,2016,SDG
+Ukraine,Europe,Eastern Europe,6.34,"2,845",2014,UNSDC/TSMNEE/CTS/DMDB
+Channel Islands,Europe,Northern Europe,0.00,0,2010,NP
+Denmark,Europe,Northern Europe,0.98,56,2016,UNSDC/CTS
+Estonia,Europe,Northern Europe,3.19,42,2015,UNSDC/EUR/CTS
+Finland,Europe,Northern Europe,1.42,78,2016,UNSDC/CTS
+Iceland,Europe,Northern Europe,0.30,1,2016,UNSDC/CTS
+Ireland,Europe,Northern Europe,0.80,38,2016,NP/NSO/CTS
+Isle of Man,Europe,Northern Europe,0.00,0,2016,NP
+Latvia,Europe,Northern Europe,3.36,67,2015,UNSDC/CTS
+Lithuania,Europe,Northern Europe,5.25,153,2016,UNSDC/CTS
+Norway,Europe,Northern Europe,0.51,27,2016,SDG/EUR/CTS
+Sweden,Europe,Northern Europe,1.08,106,2016,NCCP/CTS
+England and Wales,Europe,Northern Europe,1.22,709,2016,UNSDC/SDG/CTS
+Northern Ireland,Europe,Northern Europe,0.97,18,2016,SDG/CTS
+Scotland,Europe,Northern Europe,1.18,64,2016,SDG/CTS
+United Kingdom,Europe,Northern Europe,1.20,791,2016,CTS
+Albania,Europe,Southern Europe,2.70,79,2016,MD/CTS
+Andorra,Europe,Southern Europe,0.00,0,2015,INTP/CTS
+Bosnia and Herzegovina,Europe,Southern Europe,1.28,45,2016,UNECE/INTP/CTS
+Croatia,Europe,Southern Europe,1.04,44,2016,MOI/CTS
+Gibraltar,Europe,Southern Europe,3.01,1,2010,NP
+Greece,Europe,Southern Europe,0.75,84,2016,EUR/CTS
+Vatican City,Europe,Southern Europe,0.00,0,2015,CTS
+Italy,Europe,Southern Europe,0.67,400,2016,UNSDC/CTS
+Kosovo,Europe,Southern Europe,1.60,29,2016,CTS
+Malta,Europe,Southern Europe,0.94,4,2015,EUR/UNSDC/CTS
+Montenegro,Europe,Southern Europe,4.46,28,2016,EUR/CTS
+Portugal,Europe,Southern Europe,0.64,66,2016,EUR/CTS/SDG
+San Marino,Europe,Southern Europe,0.00,0,2011,WHO
+Serbia,Europe,Southern Europe,1.39,123,2016,EUR/CTS
+Slovenia,Europe,Southern Europe,0.48,10,2016,UNSDC/CTS/SDG
+Spain,Europe,Southern Europe,0.63,294,2016,EUR/CTS
+North Macedonia,Europe,Southern Europe,1.59,33,2014,UNSDC/EUR/CTS
+Austria,Europe,Western Europe,0.66,57,2016,EUR/UNSDC/CTS
+Belgium,Europe,Western Europe,1.95,220,2015,EUR/CTS
+France,Europe,Western Europe,1.35,875,2016,UNSDC/EUR/CTS
+Germany,Europe,Western Europe,1.18,963,2016,UNSDC/CTS
+Liechtenstein,Europe,Western Europe,0.00,0,2016,EUR/CTS
+Luxembourg,Europe,Western Europe,0.72,4,2014,EUR/UNECE/CTS
+Monaco,Europe,Western Europe,0.00,0,2015,UNSDC/CTS
+Netherlands,Europe,Western Europe,0.55,94,2016,NSO/CTS
+Switzerland,Europe,Western Europe,0.54,45,2016,UNSDC/EUR/CTS
+Australia,Oceania,Australia and New Zealand,0.94,227,2016,EUR/CTS/UNSDC
+New Zealand,Oceania,Australia and New Zealand,0.99,45,2014,NP/CTS
+Fiji,Oceania,Melanesia,2.26,20,2014,INTP/NSO
+New Caledonia,Oceania,Melanesia,3.23,8,2009,NP
+Papua New Guinea,Oceania,Melanesia,7.85,520,2007,UNSDC/NP
+Solomon Islands,Oceania,Melanesia,3.77,19,2008,CTS
+Vanuatu,Oceania,Melanesia,2.13,6,2015,WHO Estimate
+Guam,Oceania,Micronesia,2.51,4,2011,NP
+Kiribati,Oceania,Micronesia,7.50,8,2012,MD/WHO
+F.S. Micronesia,Oceania,Micronesia,4.67,5,2015,WHO Estimate
+Nauru,Oceania,Micronesia,0.00,0,2012,WHO Estimate
+Palau,Oceania,Micronesia,3.11,1,2012,WHO Estimate
+American Samoa,Oceania,Polynesia,5.40,3,2016,NSO/SDG
+Cook Islands,Oceania,Polynesia,3.49,1,2012,SDG
+French Polynesia,Oceania,Polynesia,0.38,1,2009,NP
+Niue,Oceania,Polynesia,0.00,0,2012,WHO Estimate
+Samoa,Oceania,Polynesia,3.15,6,2013,WHO
+Tonga,Oceania,Polynesia,0.95,1,2012,NP
+Tuvalu,Oceania,Polynesia,18.65,2,2012,WHO
