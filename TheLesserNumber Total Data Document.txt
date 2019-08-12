@@ -1,0 +1,263 @@
+The Lesser Number Files Information 
+
+1.Child Death Data/ 
+
+Filename : Mortality rate, infant (per 1,000 live births).csv
+Columns="Country Name","Country Code","Indicator Name","Indicator Code",Years[1960-2018]
+Indicator Name: Mortality rate, infant (per 1,000 live births) (Common Code)
+Indicator Code:SP.DYN.IMRT.IN
+Years:"1960","1961","1962","1963","1964","1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018".
+
+Filename: by country.csv
+Years: 1990-2017 
+Columns:Country,Year,Number of under-five deaths (thousands),Number of infant deaths (thousands).
+	Number of neonatal deaths (thousands) .
+
+Filename:by region.csv 
+Years: 1990-2017 
+Columns:WHO Regions(Country),Years,Number of under-five deaths (thousands),Number of infant deaths (thousands),Number of neonatal deaths (thousands).
+
+
+2.Child Labour Data/
+
+Files:  
+Census-2001&2011.xlsx  
+Census1971to2001.xlsx
+Child-labour-database_Nov-2017.xls
+
+
+Columns :Country Name,Country Code,Indicator Name,Indicator Code,
+Years:1960	1961	1962	1963	1964	1965	...	2010	2011	2012	2013	2014	2015	2016	2017	2018
+
+
+Filename:Census1971to2001.xlsx 
+Years: 1971,1981,1991,2001
+Columns:'SNo', 'Name of the State/UT',Years.
+
+
+3.Child Marriage Data 
+
+Refer to : Child-marriage-database_Mar-2018_Cleaned.csv
+Years : 2010-2017 
+Columns :Married by 15 years ,Married by 18 years ,Source.
+
+
+4.Child Widow Data\
+
+Years : Unspecified.
+Files are based on General,SC and ST data . 
+
+Filename: DDW-0000C-02-fer3-MDDS.xlsx 
+Columns: Table Name , State Codes,District Code,Type of Regions -Total/Urban/Rural,Age Group,Total - (Persons,Male,Females)
+Marital Status : Never Married-(Persons,Females,Males),Currently Married-(Persons,Females,Males),Seperated-(Persons,Females,Males),Divorced-(Persons,Females,Males),Unspecified-(Persons,Females,Males).
+
+Fileaname:DDW-0000C-02SC-fer3-MDDS.xlsx 
+Columns: Table Name , State Codes,District Code,Type of Regions -Total/Urban/Rural,Age Group,Total - (Persons,Male,Females)
+Marital Status : Never Married-(Persons,Females,Males),Currently Married-(Persons,Females,Males),Seperated-(Persons,Females,Males),Divorced-(Persons,Females,Males),Unspecified-(Persons,Females,Males).
+
+Fileaname:DDW-0000C-02ST-fer3-MDDS.xlsx 
+Columns: Table Name , State Codes,District Code,Type of Regions -Total/Urban/Rural,Age Group,Total - (Persons,Male,Females)
+Marital Status : Never Married-(Persons,Females,Males),Currently Married-(Persons,Females,Males),Seperated-(Persons,Females,Males),Divorced-(Persons,Females,Males),Unspecified-(Persons,Females,Males).
+
+
+5.Crime Data\
+
+Note: Crime.csv.zip file error .
+Columns:Crime.csv,Offence Code,CR Number,Dispatch Date/Time,NIBRS Code,Victims,Crime Name1,Crime Name2,Crime Name3,Police District, Name,Sector	Beat,PRA,Address Number	Start Date/Time	End Date/Time,Latitude,Longitude,Police District,Number,Location
+
+6.Heineous Crime Data\ 
+
+Filename :Homicide.csv
+Columns:Country (or dependent territory, subnational area, etc.),Region,Subregion,Rate,Count,Yearlisted,Source
+Years: 2007 -2016
+
+Filename:Rape at National Level for Various Level,Number of Police-recorded offenses.csv
+Columns:Total count , Rate per 100,000 population for Years : 2003-2010 for Various Countries. 		
+
+Filename:murder rates.csv
+Columns: Region,Rate and Count . 
+
+Filename:Intentional Homicode Victims per 100,000 inhabitants.csv
+Columns:"Country (or dependent territory, subnational area, etc.)",Region,Subregion,Rate,Count,Yearlisted,Source
+
+7.Literacy Data\ 
+
+Filename:API_SE.ADT.LITR.ZS_DS2_en_csv_v2_10576748.csv
+Columns:"INDICATOR_CODE","INDICATOR_NAME","SOURCE_NOTE","SOURCE_ORGANIZATION",
+"SE.ADT.LITR.ZS","Literacy rate, adult total (% of people ages 15 and above)
+Years:1960-2018
+Description: Adult literacy rate is the percentage of people ages 15 and above who can both read and write with understanding a short simple statement about their everyday life.
+
+8.Missing Migrants Data\
+
+Filename:MissingMigrants-Global-2019-06-24T14-52-35.csv
+Columns:"Web ID","Region of Incident","Reported Date","Reported Year","Reported Month","Number Dead","Minimum Estimated Number of Missing","Total Dead and Missing","Number of Survivors","Number of Females","Number of Males","Number of Children","Cause of Death","Location Description","Information Source","Location Coordinates","Migration Route","URL","UNSD Geographical Grouping","Source Quality".
+
+9.People Lacking Basic Needs \ 
+
+Note:Please refer to the following files,that have been updated and cleaned . 
+
+Filename:Population living below national poverty line_Cleaned.csv
+Columns:Country,WorldBank[7],Year,CIA[8],Year,Other,Year,Continent.
+
+Filename:Percent of population (including non-citizens) living under $1.90, $3.20 and $5.50 a day.csv
+Columns:Country,< $1.90[4],< $3.20[5],< $5.50[6],Year,Continent
+
+10.Refugee\
+
+Filename:RefugeeData.csv
+Columns:Year,Country / territory of asylum/residence,Origin,Refugees (incl. refugee-like situations),Asylum-seekers (pending cases),Returned refugees,Internally displaced persons (IDPs),Returned IDPs,Stateless persons,Others of concern,Total Population.
+
+11.Religion\
+
+Note:Please refer to the following files,that have been updated and cleaned . 
+
+Filename:ReligionBuddist.csv
+Columns:Country,Estimated Buddhist population,% of the total population of the country,	% of world Buddhist population
+
+Filename:ReligionChrist.csv
+Columns:Christianity Christians %, Christian% Catholic ,% Protestants,GDP/Capita 
+
+Filename:ReligionHindu_Cleaned.csv
+Columns:Region ,Country ,Percent,Population,Hindu.
+
+Filename:ReligionImportance_Cleaned.csv
+Columns:Country,Yes_Imp,No_Imp
+
+Filename:ReligionMuslim.csv
+Columns:Country/RegTotal,PopulMuslim,PopuMuslim %, percPercentage,Sources  
+
+Filename:ReligionSikh.csv
+Columns:Sikhs and SCountry,No. of SikhSikh %, % of all Sikh.
+
+Filename:ReligionJews.csv
+Columns:Country or Core Jewish,Population Jews per 1,Total populEnlarged Jews,Population National of World  .
+
+
+
+11.Sex Workers Data\ 
+
+Filename:2012.csv
+Columns:"Country or Area","Subgroup","Year","Source","Unit","Value","Value Footnotes".
+
+Filename:2013.csv
+Columns:"Country or Area","Subgroup","Year","Source","Unit","Value","Value Footnotes"
+
+Filename:2014.csv
+Columns:"Country or Area","Subgroup","Year","Source","Unit","Value","Value Footnotes"
+
+Filename:2016.csv
+Columns:"Country or Area","Subgroup","Year","Source","Unit","Value","Value Footnotes"
+
+Filename:2016_data.csv
+Columns:Country,Number of prostitutesSource: UNAIDS 2016Sex Workers: Size Estimates[4],Number of prostitutesOther sources and year,Population[5],"Prevalence(prostitutes per10,000 population)"
+
+
+12.Sexual Orientation\
+
+Filename:GlobalLGBTQIlawsData.csv
+Columns:continent,nonstate,country,legal_all_genders,age_of_consent_equal,age_of_consent_unequal,illegal_male,illegal_female,penalising_text_sexual_act,penalising_text_sodomy,penalising_text_against_nature,penalising_text_buggery,penalising_text_indecency_other,promotion_or_morality_penal_code,promotion_or_morality_morality_code.
+	max_sentences_1_month_to_2_years,max_sentences_3_years_to_7_years,max_sentences_8_years_to_13_years,max_sentences_14_years_to_life,max_sentences_death,arrests_in_past_3_years_yes,ban_on_ngos_yes,nrhi_so_inclusive_yes,nrhi_so_inclusive_no,nrhi_so_inclusive_unclear,nrhi_so_inclusive_none,protection_constitution	protection_employment,protection_other	protection_hate_crime	protection_incitemenrt	protection_conversion_therapy_ban	relationship_recognition_marriage	relationship_recognition_civil_recognition	relationship_recognition_joint_adoption	relationship_recognition_2nd_parent_adoption
+
+Filename:SexualOrientationLawsSummary.csv
+Columns:CN,CONTINENT,COUNTRY2017,S,2019,S		
+
+
+13.Fatal Illness\ 
+
+Note:Please refer  to the following files,that have been updated and cleaned . 
+
+Filename:Ebola_virus_data_cleaned.csv
+Columns:Country	Date as of,Case definition,Number of cases: Cumulative,Number of cases: In past 21 days,Number of deaths: Cumulative
+
+
+Filename:aids_death_data.csv
+Columns:Country,(Yr 2010)Number of deaths due to HIV/AIDS,(Yr 2005)Number of deaths due to HIV/AIDS,(Yr 2000)Number of deaths due to HIV/AIDS,(Yr 2017)	Number of deaths due to HIV/AIDS
+
+Filename:deaths_margburg_data_cleaned.csv
+Columns:Marburg virus disease (MVD) outbreaks due to Marburg virus (MARV) infection- Year,Geographic location,Virus,Human cases,Human deaths
+Year:1967-2017 
+
+Filename:living_with_aids_cleaned.csv
+Columns:Country,(YR 2017)Estimated number of people (all ages) living with HIV
+Year : 2017 
+
+
+
+14.BPL\
+
+Filename:BPL Data 2011.csv
+Columns:No.of States - (Rural & Urban , SC,All) , Combined.
+
+Filename:BPL Funds India 2010.csv
+Columns:Sl. , NState / UT ,#Projected Rural,$Projected,Rural HAmount sanctioned bas,Total sanctioned ,Amount released as final ,Amount may be released .
+
+
+
+###The following .csv files are not present in folders. ###
+
+
+13.
+Filename:ChildLabourdata.csv
+Columns:"Country Name","Country Code","Indicator Name","Indicator Code",
+(Years):"1960","1961","1962","1963","1964","1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+
+
+14.
+Filename:ChildMarriage.csv
+Columns:Series Name,Series Code,Country Name,Country Code,
+(Years):1960 [YR1960],1961 [YR1961],1962 [YR1962],1963 [YR1963],1964 [YR1964],1965 [YR1965],1966 [YR1966],1967 [YR1967]	1968 [YR1968],1969 [YR1969],1970 [YR1970],1971 [YR1971],1972 [YR1972],1973 [YR1973],1974 [YR1974],1975 [YR1975],1976 [YR1976],1977 [YR1977],1978 [YR1978],1979 [YR1979]	1980 [YR1980],1981 [YR1981],1982 [YR1982],1983 [YR1983]	1984 [YR1984],1985 [YR1985],1986 [YR1986],1987 [YR1987]	1988 [YR1988],1989 [YR1989],1990 [YR1990],1991 [YR1991]	1992 [YR1992],1993 [YR1993]	,1994 [YR1994]	1995 [YR1995]	1996 [YR1996]	
+1997 [YR1997]	1998 [YR1998]	1999 [YR1999]	2000 [YR2000]	2001 [YR2001]	2002 [YR2002]	2003 [YR2003]	2004 [YR2004]	2005 [YR2005]	2006 [YR2006]	2007 [YR2007]	2008 [YR2008]	2009 [YR2009]	2010 [YR2010]	,2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
+
+
+15.
+Filename:ChildMortalityRatesData.csv
+Columns:"Country Name","Country Code","Indicator Name","Indicator Code","1960","1961","1962","1963","1964","1965","1966","1967","1968","1969","1970","1971","1972","1973","1974","1975","1976","1977","1978","1979","1980","1981","1982","1983","1984","1985","1986","1987","1988","1989","1990","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018",
+Years: 1960-2018 
+
+16.
+Filename:DomesticViolence.csv
+Columns:Series Name,Series Code,Country Name,Country Code,1960 [YR1960],1961 [YR1961],1962 [YR1962],1963 [YR1963],1964 [YR1964],1965 [YR1965],1966 [YR1966],1967 [YR1967],1968 [YR1968],1969 [YR1969],1970 [YR1970],1971 [YR1971],1972 [YR1972],1973 [YR1973],1974 [YR1974],1975 [YR1975],1976 [YR1976],1977 [YR1977],1978 [YR1978],1979 [YR1979],1980 [YR1980],1981 [YR1981],1982 [YR1982],1983 [YR1983],1984 [YR1984],1985 [YR1985],1986 [YR1986],1987 [YR1987],1988 [YR1988],1989 [YR1989],1990 [YR1990],1991 [YR1991],1992 [YR1992],1993 [YR1993],1994 [YR1994],1995 [YR1995],1996 [YR1996],1997 [YR1997],1998 [YR1998],1999 [YR1999],2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
+Women who believe a husband is justified in beating his wife (any of five reasons)
+Years:1960-2018 
+
+17.
+Filename:GenderData.csv
+Columns:Series Name,"Series Code","Country Name","Country Code","1960 [YR1960]","1961 [YR1961]","1962 [YR1962]","1963 [YR1963]","1964 [YR1964]","1965 [YR1965]","1966 [YR1966]","1967 [YR1967]","1968 [YR1968]","1969 [YR1969]","1970 [YR1970]","1971 [YR1971]","1972 [YR1972]","1973 [YR1973]","1974 [YR1974]","1975 [YR1975]","1976 [YR1976]","1977 [YR1977]","1978 [YR1978]","1979 [YR1979]","1980 [YR1980]","1981 [YR1981]","1982 [YR1982]","1983 [YR1983]","1984 [YR1984]","1985 [YR1985]","1986 [YR1986]","1987 [YR1987]","1988 [YR1988]","1989 [YR1989]","1990 [YR1990]","1991 [YR1991]","1992 [YR1992]","1993 [YR1993]","1994 [YR1994]","1995 [YR1995]","1996 [YR1996]","1997 [YR1997]","1998 [YR1998]","1999 [YR1999]","2000 [YR2000]","2001 [YR2001]","2002 [YR2002]","2003 [YR2003]","2004 [YR2004]","2005 [YR2005]","2006 [YR2006]","2007 [YR2007]","2008 [YR2008]","2009 [YR2009]","2010 [YR2010]","2011 [YR2011]","2012 [YR2012]","2013 [YR2013]","2014 [YR2014]","2015 [YR2015]","2016 [YR2016]","2017 [YR2017]","2018 [YR2018]"
+Years:1960-2018
+
+18.
+Filename:PovertyAndEquityData.csv
+Columns:Series Name,Series Code,Country,Country Code,1974 [YR1974],1975 [YR1975],1976 [YR1976],1977 [YR1977],1978 [YR1978],1979 [YR1979],1980 [YR1980],1981 [YR1981],1982 [YR1982],1983 [YR1983],1984 [YR1984],1985 [YR1985],1986 [YR1986],1987 [YR1987],1988 [YR1988],1989 [YR1989],1990 [YR1990],1991 [YR1991],1992 [YR1992],1993 [YR1993],1994 [YR1994],1995 [YR1995],1996 [YR1996],1997 [YR1997],1998 [YR1998],1999 [YR1999],2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018]
+"Annualized growth in per capita real survey mean consumption or income, bottom 40% 
+Year:1960-2018 
+
+19.
+Filename:RacialData.csv
+Columns:"Country or Area","Year","Area","Sex","National and/or ethnic group","Record Type","Reliability","Source Year","Value","Value Footnotes"
+
+
+20.
+Filename:WarZonesData.csv
+Columns:conflict_id,location,side_a,side_a_id,side_a_2nd,side_b,side_b_id,side_b_2nd,incompatibility,territory_name,year,intensity_level,cumulative_intensity,type_of_conflict,start_date,start_prec,start_date2,start_prec2,ep_end,ep_end_date,ep_end_prec,gwno_a,gwno_a_2nd,gwno_b,gwno_b,gwno_loc,region,version
+
+
+21.
+Filename:WorldDevelopmentIndexData.csv
+Columns:
+
+22.
+Filename:WorldDisabilityData.xlsx
+Description:Estimates of disability prevalence (%) and of years of health lost due to disability (YLD), by country.							
+Columns:Memebr State,Census : (Year,ICF Component,Prevalence),Disability Survey :(Year,ICF Component,Prevalence),YLDs per 100 persons in 2004
+
+23.
+Filename:WorldReligionData.csv
+Columns:"Country or Area","Year","Area","Sex","Religion","Record Type","Reliability","Source Year","Value","Value Footnotes".
+
+
+
+
+
+
+																					
